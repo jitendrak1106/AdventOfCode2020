@@ -2,7 +2,7 @@
 
 To run the application, use below command
 
-php bin/console server:run
+> php bin/console server:run
 
 and hit below url in browser
 
